@@ -1,0 +1,6 @@
+customhost = "database-1.cpvaq3seasci.us-east-2.rds.amazonaws.com"
+customuser = "mukesh"
+custompass = "mukesh75"
+customdb = "employee"
+custombucket = "stepemployee"
+customregion = "us-east-2"
